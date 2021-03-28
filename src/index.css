@@ -240,8 +240,8 @@ p {
   border-color: transparent;
   margin-top: 1rem;
   letter-spacing: var(--spacing);
-  padding: 0.15rem 0.25rem;
-  text-transform: capitalize;
+  padding: 0.55rem 0.55rem;
+  text-transform: uppercase;
   border-radius: var(--radius);
   cursor: pointer;
 }
